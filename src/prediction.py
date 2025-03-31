@@ -73,6 +73,6 @@ def predict_language(text):
         "top_languages": top_languages
     }
 
-# Example Usage (Uncomment below to test in a script)
+# Example Usage 
 text = "omo wetin dey happen"
 predict_language(text)
